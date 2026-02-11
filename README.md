@@ -26,7 +26,7 @@ Abaixo, a representação visual da estrutura persistida:
 
 | Modelo Conceitual (MER) | Modelo Lógico |
 | :---: | :---: |
-| ![MER](schema-bd/Mer-BD-MKT-Producao.png) | ![Modelo Lógico](schema-bd/Modelo-Logico-BD-MKT-Producao.png) |
+| ![MER](assets/schema-bd/Mer-BD-MKT-Producao.png) | ![Modelo Lógico](assets/schema-bd/Modelo-Logico-BD-MKT-Producao.png) |
 | *Visão macro dos relacionamentos (1:N)* | *Detalhamento de atributos, tipagem e chaves (PK/FK)* |
 
 ---
