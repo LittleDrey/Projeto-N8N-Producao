@@ -1,6 +1,7 @@
 # Automação de Processos Financeiros e Gestão de Contratos (n8n + SQL)
 
 > **Status do Projeto:** Em Produção (Maturidade: 7 meses)
+
 > **Stack:** n8n (Workflow Automation), SQL (Banco de Dados Relacional), Wrike API, Microsoft Graph API, MySQL Workbench, brModelo.
 
 ## 🎯 Visão Geral
